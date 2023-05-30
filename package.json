@@ -9,7 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-   "devDependencies": {
+  "devDependencies": {
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.195",
+    "date-fns": "^2.30.0",
+    "lodash": "^4.17.21"
   }
 }
